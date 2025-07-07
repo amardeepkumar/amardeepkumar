@@ -24,8 +24,8 @@ Recently featured in:
 👉🏽 [Meet Android Developers from India keen to learn and inspire](https://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html)
 
 
-[![Featured in Android Developers Blog](https://img.shields.io/badge/featured%20in-Android%20Developers%20Blog-blue?style=flat-square&logo=android)]([https://androidweekly.net/issues/issue-682](https://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html))
-
+[![Featured in Android Developers Blog](https://img.shields.io/badge/featured%20in-Android%20Developers%20Blog-blue?style=flat-square&logo=android)](https://android-developers.googleblog.com/2022/12/meet-android-developers-from-india-keen-to-learn-and-inspire.html))
+  
 ---
 
 ### 💬 Ask me about
